@@ -1,4 +1,4 @@
-# Python-Stuff
+# Resolução de alguns exercícios em Python
 
 Repositório pro armazenamento de (praticamente) tudo o que eu fizer relacionado a Python. Mais focado em estudo e experimentos.
 
